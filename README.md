@@ -1,6 +1,6 @@
 # flutter_qr_code
 
-A new Flutter project.
+Flutter で QR Code を使ってみるサンプルです.
 
 ## Getting Started
 
