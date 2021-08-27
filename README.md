@@ -2,6 +2,8 @@
 
 Flutter で QR Code を使ってみるサンプルです.
 
+[TECHaas - Flutter で QRコードを扱う](https://www.techaas.net/post/flutter-qr-code/) で説明しています。
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
